@@ -1,14 +1,16 @@
-# elasticsearch-definitive-guide-en
-elasticsearch-definitive-guide-en Gitbook 英文版
-<center>![cover](cover.jpg)</center>
+# Elasticsearch 權威指南
 
-----------------------------------------
 
-**原书地址：**[Elasticsearch the definitive guide](https://github.com/elasticsearch/elasticsearch-definitive-guide)
 
-**原作者：** clinton gormley，zachary tong
+## 譯者前言
+譯者現在的工作項目中需要用到 Elasticsearch，但是在網絡中找了很多的相關的內容都很不完善，中文的文檔更是寥寥無幾，所以我決定邊研究邊翻譯一下官方推出的權威手冊。在這裏要先感謝原作者們！如果各位在這裏發現了錯誤之處，請大家在 Issue 中提出或者 PR [這個項目](https://github.com/jaric/elasticsearch-definitive-guide-en/)。
 
-#### 项目地址：
+> ##### 如果你喜歡這個翻譯項目可以[點擊Star一下](https://github.com/jaric/elasticsearch-definitive-guide-en/)，您的支持是我們最大的動力。
 
-[https://github.com/allen8807/elasticsearch-definitive-guide-en](https://github.com/allen8807/elasticsearch-definitive-guide-en)
+****
+* 原作名字：elasticsearch - the definitive guide
+* 原作作者：clinton gormley，zachary tong
+* 譯者：Lawrence Cheng <lawrence.cmw@gmail.com>
+* 譯者：Jaric Kuo <jarickuo@gmail.com>
+
 
